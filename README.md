@@ -11,6 +11,8 @@ Vendor:https://github.com/Geeklog-Core/geeklog
 ~~~
 "><script>alert('xss');</script>
 ~~~
-
+![bankend_inject](https://github.com/CrownZTX/reflectedxss1/blob/main/images/geeklog_bankend_inject.png)
 3. We can observe the payload getting triggered.
-   
+![bankend_reflect](https://github.com/CrownZTX/reflectedxss1/blob/main/images/geeklog_bankend_reflect.png)
+
+4.Similarly, we can enter the payload to the input area of Mail Settings[backend]
