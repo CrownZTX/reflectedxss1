@@ -16,7 +16,9 @@ Vendor:https://github.com/Geeklog-Core/geeklog
 ![bankend_reflect](https://github.com/CrownZTX/reflectedxss1/blob/main/images/geeklog_bankend_reflect.png)
 
 4.Similarly, we can enter the payload to the input area of Mail Settings[host], Mail Settings[port] and Mail Settings[auth].
-![hpa_inject](https://github.com/CrownZTX/reflectedxss1/blob/main/images/geeklog_bankend_reflect.png)
+![hpa_inject](https://github.com/CrownZTX/reflectedxss1/blob/main/images/host_port_auth_inject.png)
 
 5. We can observe all payloads getting triggered.
-![hpa_reflect](https://github.com/CrownZTX/reflectedxss1/blob/main/images/geeklog_bankend_reflect.png)
+![host_reflect](https://github.com/CrownZTX/reflectedxss1/blob/main/images/host_reflect.png)
+![port_reflect](https://github.com/CrownZTX/reflectedxss1/blob/main/images/port_reflect.png)
+![anth_reflect](https://github.com/CrownZTX/reflectedxss1/blob/main/images/anth_reflect.png)
